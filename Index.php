@@ -6,7 +6,7 @@
 $t = date("H");
 
 if ($t < "20") {
-  echo "Hello World! Have an Awesome day!";
+  echo "Hello World! Have an Awesome day! yes awsesome day for the events to trgiger";
 }
 ?>
  
